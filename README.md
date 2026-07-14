@@ -1,4 +1,4 @@
-## 🚀 LeetCode SQL Solutions
+## 🚀 LeetCode Pandas Solutions
 
 Welcome! 👋
 
