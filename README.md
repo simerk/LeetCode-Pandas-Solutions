@@ -2,7 +2,7 @@
 
 Welcome! 👋
 
-This repository contains my solutions for LeetCode Database and Pandas problems using Python.
+This repository contains my solutions for LeetCode Pandas problems.
 
 Each solution includes:
 
