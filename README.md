@@ -6,10 +6,13 @@ This repository contains my solutions for LeetCode Pandas problems.
 
 Each solution includes:
 
+- 📖 Problem
+- 📝 Example
 - 💡 Idea
 - 💻 Solution
 - 🛠️ Code Explanation
 - 🔄 Alternative Approaches
+- 📚 Pandas Functions Used
 - ⏱️ Complexity Analysis
 
 ---
