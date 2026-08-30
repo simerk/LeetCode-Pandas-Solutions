@@ -41,5 +41,10 @@ Each solution includes:
 | 18 | 569 | [Median Employee Salary 🔒](Hard/569.%20Median%20Employee%20Salary.md) | 🔴 Hard |
 | 19 | 570 | [Managers with at Least 5 Direct Reports](Medium/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md) | 🟡 Medium |
 | 20 | 571 | [Find Median Given Frequency of Numbers 🔒](Hard/571.%20Find%20Median%20Given%20Frequency%20of%20Numbers.md) | 🔴 Hard |
+| 21 | 574 | [Winning Candidate 🔒](Medium/574.%20Winning%20Candidate.md) | 🟡 Medium |
+| 22 | 577 | [Employee Bonus](Easy/577.%20Employee%20Bonus.md) | 🟢 Easy |
+| 23 | 578 | [Get Highest Answer Rate Question 🔒](Medium/578.%20Get%20Highest%20Answer%20Rate%20Question.md) | 🟡 Medium |
+| 24 | 579 | [Find Cumulative Salary of an Employee 🔒](Hard/579.%20Find%20Cumulative%20Salary%20of%20an%20Employee.md) | 🔴 Hard |
+| 25 | 580 | [Count Student Number in Departments 🔒](Medium/580.%20Count%20Student%20Number%20in%20Departments.md) | 🟡 Medium |
 
 ⭐ New solutions are added regularly.
