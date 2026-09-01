@@ -46,5 +46,10 @@ Each solution includes:
 | 23 | 578 | [Get Highest Answer Rate Question 🔒](Medium/578.%20Get%20Highest%20Answer%20Rate%20Question.md) | 🟡 Medium |
 | 24 | 579 | [Find Cumulative Salary of an Employee 🔒](Hard/579.%20Find%20Cumulative%20Salary%20of%20an%20Employee.md) | 🔴 Hard |
 | 25 | 580 | [Count Student Number in Departments 🔒](Medium/580.%20Count%20Student%20Number%20in%20Departments.md) | 🟡 Medium |
+| 26 | 584 | [Find Customer Referee](Easy/584.%20Find%20Customer%20Referee.md) | 🟢 Easy |
+| 27 | 585 | [Investments in 2016](Medium/585.%20Investments%20in%202016.md) | 🟡 Medium |
+| 28 | 586 | [Customer Placing the Largest Number of Orders](Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md) | 🟢 Easy |
+| 29 | 595 | [Big Countries](Easy/595.%20Big%20Countries.md) | 🟢 Easy |
+| 30 | 596 | [Classes With at Least 5 Students](Easy/596.%20Classes%20With%20at%20Least%205%20Students.md) | 🟢 Easy |
 
 ⭐ New solutions are added regularly.
