@@ -51,5 +51,15 @@ Each solution includes:
 | 28 | 586 | [Customer Placing the Largest Number of Orders](Easy/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.md) | 🟢 Easy |
 | 29 | 595 | [Big Countries](Easy/595.%20Big%20Countries.md) | 🟢 Easy |
 | 30 | 596 | [Classes With at Least 5 Students](Easy/596.%20Classes%20With%20at%20Least%205%20Students.md) | 🟢 Easy |
+| 31 | 597 | [Friend Requests I Overall Acceptance Rate 🔒](Easy/597.%20Friend%20Requests%20I%20Overall%20Acceptance%20Rate.md) | 🟢 Easy |
+| 32 | 601 | [Human Traffic of Stadium](Hard/601.%20Human%20Traffic%20of%20Stadium.md) | 🔴 Hard |
+| 33 | 602 | [Friend Requests II: Who Has the Most Friends](Medium/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.md) | 🟡 Medium |
+| 34 | 603 | [Consecutive Available Seats 🔒](Easy/603.%20Consecutive%20Available%20Seats.md) | 🟢 Easy |
+| 35 | 607 | [Sales Person](Easy/607.%20Sales%20Person.md) | 🟢 Easy |
+| 36 | 608 | [Tree Node](Medium/608.%20Tree%20Node.md) | 🟡 Medium |
+| 37 | 610 | [Triangle Judgement](Easy/610.%20Triangle%20Judgement.md) | 🟢 Easy |
+| 38 | 612 | [Shortest Distance in a Plane 🔒](Medium/612.%20Shortest%20Distance%20in%20a%20Plane.md) | 🟡 Medium |
+| 39 | 613 | [Shortest Distance in a Line 🔒](Easy/613.%20Shortest%20Distance%20in%20a%20Line.md) | 🟢 Easy |
+| 40 | 614 | [Second Degree Follower 🔒](Medium/614.%20Second%20Degree%20Follower.md) | 🟡 Medium |
 
 ⭐ New solutions are added regularly.
